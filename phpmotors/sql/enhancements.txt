@@ -1,0 +1,3 @@
+Insert into the Clients table
+INSERT INTO clients (clientFirstname, clientLastname, clientEmail, clientPassword, clientLevel, comment) 
+VALUES ('Tony', 'Stark', 'tony@starkent.com' ,'IamIronm@n', '1',  'I am the real Ironman');
